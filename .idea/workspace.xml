@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="542eedeb-b900-412f-96a5-bc600264928a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-208768769">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="21" />
+          <entry key="java" value="9707" />
+          <entry key="xml" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9707" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="XML" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="102" />
+          <entry key="java" value="755" />
+          <entry key="lst" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="proto" value="6" />
+          <entry key="xml" value="28" />
+          <entry key="xsd" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="102" />
+          <entry key="JAVA" value="755" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="36" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>req</find>
+      <find>ctx</find>
+      <find>msg</find>
+      <find>result</find>
+      <find>com.phei.netty.codec.protobuf</find>
+      <find>com.google.protobuf</find>
+      <find>ile</find>
+      <find>buf</find>
+      <find>fileLength</find>
+      <find>LastHttpContent</find>
+      <find>dirPath</find>
+      <find>sendFileFuture</find>
+      <find>handler</find>
+      <find>newCtx</find>
+      <find>matcher</find>
+      <find>pojo</find>
+      <find>org.jibx</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.example.cp8.pojo</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/example/NIO/MultiplexerTimeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/netty/TimeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/netty/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/netty/TimeClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4/TimeClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/netty/TimeClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4/TimeClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4/TimeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4Solution/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4Solution/TimeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4Solution/TimeClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4Solution/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp4Solution/TimeClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp5/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp5/EchoClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp5/EchoClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp5/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp5Delimiter/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp5Fixedlength/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp5Fixedlength/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp6/pojo/PerformTestUserInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp6/pojo/UserInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/pojo/SubscribeReq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/pojo/SubscribeResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/pojo/SubscribeRespProto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/pojo/SubscribeReqProto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/TestSubscribeReqProto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/protobuf/SubscribeReqProto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/test/TestSubscribeReqProto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/HttpFileServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/HttpFileServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/pojo/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/pojo/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/pojo/Shipping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/pojo/OrderFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/test/TestOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/pojo/test/GenerateBindXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/test/GenerateBindXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/fileServer/HttpFileServerHandler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/GenerateBindXmlUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\Maven\qunarmvnsettings\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="21" />
+    <option name="y" value="470" />
+    <option name="width" value="1934" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="cp10http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="cp10http" type="462c0819:PsiDirectoryNode" />
+              <item name="fileServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="cp10http" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="cp10http" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="cp10http" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Netty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="netty" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561566043062" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.cp8" />
+      <recent name="com.example.cp8.pojo" />
+      <recent name="com.example.cp5Fixedlength" />
+      <recent name="com.example.cp5" />
+      <recent name="com.example.cp4Solution" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProj\Netty" />
+      <recent name="F:\IdeaProj\Netty\src\main\java\com\example\cp8\protobuf" />
+      <recent name="F:\IdeaProj\Netty\src\main\java\com\example\cp8" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GenerateBindXmlUtil">
+    <configuration name="GenerateBindXmlUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cp10http.xml.test.GenerateBindXmlUtil" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cp10http.xml.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpFileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cp10http.fileServer.HttpFileServer" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cp10http.fileServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubReqClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cp8.SubReqClient" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cp8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubReqServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cp8.SubReqServer" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cp8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cp10http.xml.test.TestOrder" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cp10http.xml.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SubReqServer" />
+      <item itemvalue="Application.SubReqClient" />
+      <item itemvalue="Application.HttpFileServer" />
+      <item itemvalue="Application.GenerateBindXmlUtil" />
+      <item itemvalue="Application.TestOrder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenerateBindXmlUtil" />
+        <item itemvalue="Application.TestOrder" />
+        <item itemvalue="Application.HttpFileServer" />
+        <item itemvalue="Application.SubReqClient" />
+        <item itemvalue="Application.SubReqServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="542eedeb-b900-412f-96a5-bc600264928a" name="Default Changelist" comment="" />
+      <created>1559354957558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559354957558</updated>
+      <workItem from="1559354961117" duration="4803000" />
+      <workItem from="1560998266027" duration="7444000" />
+      <workItem from="1561035237300" duration="2970000" />
+      <workItem from="1561086687430" duration="5894000" />
+      <workItem from="1561121629705" duration="1347000" />
+      <workItem from="1561170722007" duration="10994000" />
+      <workItem from="1561375819897" duration="214000" />
+      <workItem from="1561429307803" duration="8370000" />
+      <workItem from="1561527367710" duration="15555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57591000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7453826" visible="true" weight="0.19009584" />
+      <window_info id="Structure" order="1" sideWeight="0.25461742" side_tool="true" weight="0.19382322" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29945946" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4281081" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34054053" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.22594595" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31243244" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.33405405" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="PlantUML" order="6" weight="0.32960597" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32960597" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32960597" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/cp10http/fileServer/HttpFileServerHandler.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/cp10http/fileServer/HttpFileServerHandler.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/cp10http/fileServer/HttpFileServerHandler.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/cp10http/fileServer/HttpFileServerHandler.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/cp10http/fileServer/HttpFileServerHandler.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/TestOrder.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/jibx/jibx-run/1.2.5/jibx-run-1.2.5-sources.jar!/org/jibx/runtime/BindingDirectory.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/ChannelPipeline.java</url>
+          <line>247</line>
+          <properties class="io.netty.channel.ChannelPipeline" method="addLast">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/ChannelHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="41" column="43" lean-forward="true" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/util/ReferenceCountUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="223" column="26" selection-start-line="223" selection-start-column="26" selection-end-line="223" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/util/internal/TypeParameterMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/SimpleChannelInboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/http/HttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/http/FullHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/pojo/Shipping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-bind/1.2.5/jibx-bind-1.2.5.jar!/org/jibx/binding/model/ClassWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/pojo/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/pojo/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_netty.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-tools/1.2.5/jibx-tools-1.2.5.jar!/org/jibx/binding/generator/BindGen.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-tools/1.2.5/jibx-tools-1.2.5-sources.jar!/org/jibx/binding/generator/BindGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226">
+          <caret line="1239" column="37" lean-forward="true" selection-start-line="1239" selection-start-column="37" selection-end-line="1239" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/binding.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/pojo.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="1121" column="6" selection-start-line="1121" selection-start-column="6" selection-end-line="1121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-bind/1.2.5/jibx-bind-1.2.5.jar!/org/jibx/binding/classes/ClassCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-run/1.3.1/jibx-run-1.3.1.jar!/org/jibx/runtime/BindingDirectory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/fileServer/HttpFileServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/pojo/OrderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-run/1.2.5/jibx-run-1.2.5.jar!/org/jibx/runtime/BindingDirectory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="103" column="53" selection-start-line="103" selection-start-column="53" selection-end-line="103" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-run/1.2.5/jibx-run-1.2.5-sources.jar!/org/jibx/runtime/IBindingFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="2064" column="17" selection-start-line="2064" selection-start-column="17" selection-end-line="2064" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-run/1.2.5/jibx-run-1.2.5-sources.jar!/org/jibx/runtime/BindingDirectory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/JiBX_bindingOrder_access1.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/Shipping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/OrderFactory.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/Customer.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/Order.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/fileServer/HttpFileServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="133" column="13" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo.xsd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jibx/jibx-bind/1.2.5/jibx-bind-1.2.5.jar!/org/jibx/binding/Compile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="212" column="23" selection-start-line="212" selection-start-column="23" selection-end-line="212" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/test/GenerateBindXmlUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <folding>
+            <element signature="e#0#899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/Address.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binding.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/JiBX_bindingOrder_access.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/JiBX_bindingMungeAdapter.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp10http/xml/pojo/JiBX_bindingFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/GenerateBindXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/TestOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Netty</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.barchart.udt:barchart-udt-bundle:2.3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
