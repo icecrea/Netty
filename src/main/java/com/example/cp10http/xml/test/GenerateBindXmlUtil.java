@@ -20,10 +20,13 @@ import java.io.IOException;
 public class GenerateBindXmlUtil {
     public static void main(String[] args) throws JiBXException, IOException {
 
-        genBindFiles();
-//        compile();
+//        genBindFiles();
+        compile();
     }
 
+    /**
+     * 注意要通过编译后，再运行TestOrder
+     */
     private static void compile() {
         String[] args = new String[2];
 

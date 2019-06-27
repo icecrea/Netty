@@ -19,6 +19,13 @@ public class TestOrder {
     private StringReader reader = null;
     private final static String CHARSET_NAME = "UTF-8";
 
+    /**
+     * 通过marshalDocument将Order序列化为StringWriter
+     * @param order
+     * @return
+     * @throws JiBXException
+     * @throws IOException
+     */
     private String encode2Xml(Order order) throws JiBXException, IOException {
         factory = BindingDirectory.getFactory(Order.class);
         writer = new StringWriter();
@@ -31,6 +38,12 @@ public class TestOrder {
         return xmlStr;
     }
 
+    /**
+     * 通过StringReader读取String类型的xml对象，然后通过unmarshalDocument反序列化为Order对象
+     * @param xmlBody
+     * @return
+     * @throws JiBXException
+     */
     private Order decode2Order(String xmlBody) throws JiBXException {
         reader = new StringReader(xmlBody);
         IUnmarshallingContext uctx = factory.createUnmarshallingContext();
