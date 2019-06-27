@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="542eedeb-b900-412f-96a5-bc600264928a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/client/HttpXmlClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/client/HttpXmlClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/AbstractHttpXmlDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/AbstractHttpXmlEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/HttpXmlRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/HttpXmlRequestDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/HttpXmlRequestEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/HttpXmlResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/HttpXmlResponseDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/HttpXmlResponseEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/server/HttpXmlServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/server/HttpXmlServerHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/GenerateBindXmlUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/GenerateBindXmlUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/TestOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/TestOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/cp10http/xml/test/TestOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/cp10http/xml/test/TestOrder.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -96,7 +80,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/server/HttpXmlServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
+            <state relative-caret-position="330">
               <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -527,7 +511,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="netty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561617360728" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561617991093" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -664,12 +648,12 @@
       <workItem from="1561375819897" duration="214000" />
       <workItem from="1561429307803" duration="8370000" />
       <workItem from="1561527367710" duration="15991000" />
-      <workItem from="1561594855136" duration="12551000" />
+      <workItem from="1561594855136" duration="12794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70578000" />
+    <option name="totallyTimeSpent" value="70821000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,7 +682,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.22594595" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30702704" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31027028" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32972974" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.33405405" />
@@ -1161,7 +1145,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/server/HttpXmlServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
+        <state relative-caret-position="330">
           <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
