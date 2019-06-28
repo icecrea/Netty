@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="542eedeb-b900-412f-96a5-bc600264928a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/ChannelBufferByteInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/ChannelBufferByteOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/MarshallingCodecFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/MarshallingDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/MarshallingEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/NettyMessageDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/NettyMessageEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/struct/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/struct/NettyMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/pojo/SubscribeReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/pojo/SubscribeResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/codec/MarshallingCodeCFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/GenerateBindXmlUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/GenerateBindXmlUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp8/SubReqServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp8/pojo/SubscribeReq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp8/pojo/SubscribeResp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServerHandler.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,13 +46,13 @@
         <counts>
           <entry key="dummy" value="23" />
           <entry key="gitignore" value="10" />
-          <entry key="java" value="12159" />
+          <entry key="java" value="12407" />
           <entry key="xml" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12159" />
+          <entry key="JAVA" value="12407" />
           <entry key="PLAIN_TEXT" value="33" />
           <entry key="XML" value="48" />
         </counts>
@@ -89,7 +63,7 @@
           <entry key="gitignore" value="4" />
           <entry key="html" value="4" />
           <entry key="iml" value="4" />
-          <entry key="java" value="1762" />
+          <entry key="java" value="1794" />
           <entry key="lst" value="1" />
           <entry key="properties" value="1" />
           <entry key="proto" value="6" />
@@ -102,7 +76,7 @@
           <entry key="CLASS" value="141" />
           <entry key="HTML" value="4" />
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="1762" />
+          <entry key="JAVA" value="1794" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="64" />
@@ -115,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            <state relative-caret-position="305">
+              <caret line="44" column="27" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -220,8 +194,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqClientHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/pojo/SubscribeReq.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClientHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/ChannelByteOutput.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/ChannelBufferByteOutput.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/ChannelBufferByteInput.java" />
@@ -229,6 +201,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/NettyMessageEncoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClientHandler.java" />
       </list>
     </option>
   </component>
@@ -273,7 +247,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -396,7 +370,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="netty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561715670070" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561716527679" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../nettybook2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -535,12 +509,12 @@
       <workItem from="1561527367710" duration="15991000" />
       <workItem from="1561594855136" duration="15908000" />
       <workItem from="1561625164523" duration="7963000" />
-      <workItem from="1561687801909" duration="10453000" />
+      <workItem from="1561687801909" duration="11224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92351000" />
+    <option name="totallyTimeSpent" value="93122000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -552,10 +526,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7453826" visible="true" weight="0.20127796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7453826" visible="true" weight="0.20181043" />
       <window_info id="Structure" order="1" sideWeight="0.25461742" side_tool="true" weight="0.19382322" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -564,13 +538,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.5556757" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2918919" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31783783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34054053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.22594595" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3881081" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25513515" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32972974" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32972974" />
@@ -927,16 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/MarshallingCodecFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/marshalling/MarshallingEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
@@ -949,20 +913,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/MarshallingEncoder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/NettyMessageEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="697">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/NettyMessageEncoder.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/marshalling/jboss-marshalling/1.4.10.Final/jboss-marshalling-1.4.10.Final.jar!/org/jboss/marshalling/ByteInput.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        <state relative-caret-position="114">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/serialization/ObjectDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="392" column="18" selection-start-line="392" selection-start-column="18" selection-end-line="392" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/ChannelBufferByteInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -979,20 +964,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/marshalling/jboss-marshalling/1.4.10.Final/jboss-marshalling-1.4.10.Final.jar!/org/jboss/marshalling/ByteInput.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/MarshallingCodecFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/ChannelBufferByteInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp14protocol/codec/MarshallingEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/serialization/ClassResolvers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1016,31 +1011,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/serialization/ObjectDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="392" column="18" selection-start-line="392" selection-start-column="18" selection-end-line="392" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/serialization/ClassResolvers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="50" />
+        <state relative-caret-position="153">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1049,8 +1023,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="271">
+          <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1059,18 +1033,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        <state relative-caret-position="252">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1013#1580#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        <state relative-caret-position="305">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

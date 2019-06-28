@@ -13,6 +13,10 @@ public class SubReqClientHandler extends ChannelHandlerAdapter {
     public SubReqClientHandler() {
     }
 
+    /**
+     * 一次构造10条请求，一次性发送。验证序列化是否支持tcp粘包拆包
+     * @param ctx
+     */
     @Override
     public void channelActive(ChannelHandlerContext ctx) {
         for (int i = 0; i < 10; i++) {
@@ -31,6 +35,12 @@ public class SubReqClientHandler extends ChannelHandlerAdapter {
         return req;
     }
 
+    /**
+     * 对象解码器对应答消息自动解码，接收到的消息是解码成功后的订购应答
+     * @param ctx
+     * @param msg
+     * @throws Exception
+     */
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg)
             throws Exception {

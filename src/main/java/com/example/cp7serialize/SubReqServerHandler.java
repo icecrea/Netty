@@ -11,6 +11,12 @@ import io.netty.channel.ChannelHandlerContext;
  * @create: 2019-06-28 17:23
  **/
 public class SubReqServerHandler extends ChannelHandlerAdapter {
+    /**
+     * 经过解码器ObjectDecoder解码，SubReqServerHandler接到的消息已经自动解码成SubscribeReq对象,可以直接使用
+     * @param ctx
+     * @param msg
+     * @throws Exception
+     */
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg)
             throws Exception {
