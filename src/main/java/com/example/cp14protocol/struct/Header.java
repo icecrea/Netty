@@ -26,6 +26,7 @@ public final class Header {
 
     /**
      * 消息类型
+     * 0请求 1响应 2业务One way既是请求又是响应 3握手请求 4握手应答 5心跳请求 6心跳应答
      */
     private byte type;
 

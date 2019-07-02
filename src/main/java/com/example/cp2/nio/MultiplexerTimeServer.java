@@ -1,4 +1,4 @@
-package com.example.nio;
+package com.example.cp2.nio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -24,6 +24,11 @@ public class MultiplexerTimeServer implements Runnable {
 
     private volatile boolean stop;
 
+    /**
+     * 初始化多路复用器、绑定监听端口
+     *
+     * @param port
+     */
     public MultiplexerTimeServer(int port) {
         try {
             selector = Selector.open();
@@ -105,7 +110,7 @@ public class MultiplexerTimeServer implements Runnable {
                     key.cancel();
                     sc.close();
                 } else {
-                    ;
+                    ;// 读到0字节，忽略
                 }
             }
         }

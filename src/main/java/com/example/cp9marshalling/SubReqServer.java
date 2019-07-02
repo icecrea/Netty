@@ -1,6 +1,5 @@
 package com.example.cp9marshalling;
 
-import com.example.cp8.SubReqServerHandler;
 import com.example.cp9marshalling.codec.MarshallingCodeCFactory;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
