@@ -1,4 +1,4 @@
-package com.example.netty;
+package com.example.cp3netty;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

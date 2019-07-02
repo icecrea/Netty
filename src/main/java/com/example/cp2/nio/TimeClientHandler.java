@@ -91,8 +91,10 @@ public class TimeClientHandler implements Runnable {
                 if (sc.finishConnect()) {
                     sc.register(selector, SelectionKey.OP_READ);
                     doWrite(sc);
-                } else
-                    System.exit(1);// 连接失败，进程退出
+                } else {
+                    // 连接失败，进程退出
+                    System.exit(1);
+                }
             }
             if (key.isReadable()) {
                 ByteBuffer readBuffer = ByteBuffer.allocate(1024);

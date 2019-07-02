@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="542eedeb-b900-412f-96a5-bc600264928a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/struct/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp14protocol/struct/Header.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cp9marshalling/SubReqServer.java" afterDir="false" />
-    </list>
+    <list default="true" id="542eedeb-b900-412f-96a5-bc600264928a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,13 +44,13 @@
         <counts>
           <entry key="dummy" value="23" />
           <entry key="gitignore" value="10" />
-          <entry key="java" value="13532" />
+          <entry key="java" value="13555" />
           <entry key="xml" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13532" />
+          <entry key="JAVA" value="13555" />
           <entry key="PLAIN_TEXT" value="33" />
           <entry key="XML" value="58" />
         </counts>
@@ -69,7 +61,7 @@
           <entry key="gitignore" value="4" />
           <entry key="html" value="4" />
           <entry key="iml" value="4" />
-          <entry key="java" value="2062" />
+          <entry key="java" value="2083" />
           <entry key="lst" value="1" />
           <entry key="properties" value="1" />
           <entry key="proto" value="6" />
@@ -82,7 +74,7 @@
           <entry key="CLASS" value="154" />
           <entry key="HTML" value="4" />
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="2062" />
+          <entry key="JAVA" value="2083" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="72" />
@@ -93,14 +85,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeServerHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/nio/TimeClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+            <state relative-caret-position="538">
+              <caret line="110" column="22" lean-forward="true" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,7 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>handler</find>
       <find>newCtx</find>
       <find>matcher</find>
       <find>pojo</find>
@@ -148,6 +137,7 @@
       <find>off</find>
       <find>out</find>
       <find>in</find>
+      <find>sc</find>
     </findStrings>
     <replaceStrings>
       <replace>com.example.cp8.pojo</replace>
@@ -160,11 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/test/TestOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/client/HttpXmlClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/server/HttpXmlServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/cp10http/xml/codec/HttpXmlResponseEncoder.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp11WebSocket/WebSocketServerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp11WebSocket/WebSocketServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp12upd/ChinesepProverbClient.java" />
@@ -211,6 +196,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/nio/TimeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp2/nio/TimeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp2/nio/MultiplexerTimeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp2/nio/TimeClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/cp2/nio/TimeClientHandler.java" />
       </list>
     </option>
   </component>
@@ -314,16 +304,6 @@
               <item name="Netty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="cp2" type="462c0819:PsiDirectoryNode" />
-              <item name="bio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Netty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webinfo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -350,7 +330,7 @@
     <property name="SearchEverywhereHistoryKey" value="ByteBuffer&#9;PSI&#9;JAVA://java.nio.ByteBuffer" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562053329634" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562054039811" />
     <property name="last_opened_file_path" value="F:/flightcode/fuwu_coreserv" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -491,12 +471,12 @@
       <workItem from="1561625164523" duration="7963000" />
       <workItem from="1561687801909" duration="14501000" />
       <workItem from="1561979530404" duration="7040000" />
-      <workItem from="1562036292681" duration="9880000" />
+      <workItem from="1562036292681" duration="10640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113319000" />
+    <option name="totallyTimeSpent" value="114079000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -509,9 +489,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.14285715" visible="true" weight="0.15388711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.14285715" visible="true" weight="0.19169329" />
       <window_info id="Structure" order="1" sideWeight="0.85714287" side_tool="true" weight="0.21778488" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -520,13 +499,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.5556757" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36324325" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3589189" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34054053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.22594595" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32216215" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3416216" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32972974" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32972974" />
@@ -605,72 +584,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/serialization/ClassResolvers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/handler/codec/serialization/ObjectDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp7serialize/pojo/SubscribeReq.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1995" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/example/cp7serialize/pojo/SubscribeResp.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/pojo/SubscribeReq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/pojo/SubscribeResp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp7serialize/SubReqClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
@@ -983,16 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1005,12 +908,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
+        <state relative-caret-position="502">
           <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#376#377#0" expanded="true" />
             <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/netty/TimeClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/netty/TimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/nio/TimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/nio/MultiplexerTimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="112" column="32" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/bio/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/nio/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_181/src.zip!/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="227" column="28" selection-start-line="227" selection-start-column="28" selection-end-line="227" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_181/src.zip!/java/nio/channels/SocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="388" column="28" selection-start-line="388" selection-start-column="28" selection-end-line="388" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/cp2/nio/TimeClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="110" column="22" lean-forward="true" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
