@@ -15,6 +15,7 @@ public class SubReqClientHandler extends ChannelHandlerAdapter {
 
     /**
      * 一次构造10条请求，一次性发送。验证序列化是否支持tcp粘包拆包
+     *
      * @param ctx
      */
     @Override
@@ -37,6 +38,7 @@ public class SubReqClientHandler extends ChannelHandlerAdapter {
 
     /**
      * 对象解码器对应答消息自动解码，接收到的消息是解码成功后的订购应答
+     *
      * @param ctx
      * @param msg
      * @throws Exception

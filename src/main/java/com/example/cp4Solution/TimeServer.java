@@ -51,7 +51,7 @@ public class TimeServer {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        int port =8080;
+        int port = 8080;
         new TimeServer().bind(port);
     }
 

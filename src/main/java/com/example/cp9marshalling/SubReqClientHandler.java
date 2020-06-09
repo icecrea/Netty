@@ -9,7 +9,7 @@ import io.netty.channel.ChannelHandlerContext;
  * @author: icecrea
  * @create: 2019-06-28 15:52
  **/
-public class SubReqClientHandler  extends ChannelHandlerAdapter {
+public class SubReqClientHandler extends ChannelHandlerAdapter {
     /**
      * Creates a client-side handler.
      */

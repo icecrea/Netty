@@ -3,6 +3,7 @@ package com.example.cp7serialize.pojo;
 import lombok.Data;
 
 import java.io.Serializable;
+
 @Data
 public class SubscribeReq implements Serializable {
 

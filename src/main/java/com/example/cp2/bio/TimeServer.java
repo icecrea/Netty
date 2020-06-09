@@ -34,7 +34,6 @@ public class TimeServer {
             if (server != null) {
                 System.out.println("The time server close");
                 server.close();
-                server = null;
             }
         }
     }

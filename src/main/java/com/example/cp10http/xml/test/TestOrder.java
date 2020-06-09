@@ -21,6 +21,7 @@ public class TestOrder {
 
     /**
      * 通过marshalDocument将Order序列化为StringWriter
+     *
      * @param order
      * @return
      * @throws JiBXException
@@ -40,6 +41,7 @@ public class TestOrder {
 
     /**
      * 通过StringReader读取String类型的xml对象，然后通过unmarshalDocument反序列化为Order对象
+     *
      * @param xmlBody
      * @return
      * @throws JiBXException

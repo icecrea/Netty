@@ -7,13 +7,11 @@ import org.jibx.runtime.JiBXException;
 import java.io.IOException;
 
 /**
- * @description:
- *
- *    可以通过命令行生成bing.xml和pojo.xsd
- *    注意：要使用官网下载的包，不能用maven仓库中的，该格式会少包 以下命令会生成 binding.xml和pojo.xsd 文件
- *
- *    进入classes文件目录 cd F:\IdeaProj\Netty\target\classes\
- *    java -cp E:\jibx\jibx_1_3_1\jibx\lib\jibx-tools.jar org.jibx.binding.generator.BindGen -b binding.xml com.example.cp10http.xml.struct.Order
+ * @description: 可以通过命令行生成bing.xml和pojo.xsd
+ * 注意：要使用官网下载的包，不能用maven仓库中的，该格式会少包 以下命令会生成 binding.xml和pojo.xsd 文件
+ * <p>
+ * 进入classes文件目录 cd F:\IdeaProj\Netty\target\classes\
+ * java -cp E:\jibx\jibx_1_3_1\jibx\lib\jibx-tools.jar org.jibx.binding.generator.BindGen -b binding.xml com.example.cp10http.xml.struct.Order
  * @author: icecrea
  * @create: 2019-06-26 13:42
  **/

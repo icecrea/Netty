@@ -33,6 +33,7 @@ import static io.netty.handler.codec.http.HttpVersion.HTTP_1_1;
 public class HttpXmlServerHandler extends SimpleChannelInboundHandler<HttpXmlRequest> {
     /**
      * messageReceived 服务端处理类，此时接收到的已经是解码后的消息  HttpXmlRequest
+     *
      * @param ctx
      * @param xmlRequest
      * @throws Exception

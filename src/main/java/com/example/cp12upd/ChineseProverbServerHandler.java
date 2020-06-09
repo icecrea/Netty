@@ -27,6 +27,7 @@ public class ChineseProverbServerHandler extends SimpleChannelInboundHandler<Dat
 
     /**
      * netty对udp进行了封装，接收到的是DatagramPacket对象
+     *
      * @param ctx
      * @param packet
      * @throws Exception

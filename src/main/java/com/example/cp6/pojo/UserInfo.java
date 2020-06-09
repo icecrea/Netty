@@ -1,8 +1,5 @@
 package com.example.cp6.pojo;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-import io.netty.buffer.ByteBuf;
-
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
@@ -75,7 +72,7 @@ public class UserInfo implements Serializable {
         return result;
     }
 
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         UserInfo userInfo = new UserInfo();
         userInfo.buildUserID(100).buildUserName("Welcome to Netty");
         ByteArrayOutputStream bos = new ByteArrayOutputStream();
@@ -88,7 +85,6 @@ public class UserInfo implements Serializable {
         bos.close();
         System.out.println("the byte array serializable len is :" + userInfo.codeC().length);
     }
-
 
 
 }

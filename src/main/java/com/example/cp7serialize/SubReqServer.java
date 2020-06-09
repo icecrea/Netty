@@ -36,8 +36,8 @@ public class SubReqServer {
                             //使用weakCachingConcurrentResolver 创建线程安全的WeakReferenceMap对类加载器进行缓存
                             //防止异常码流和解码错位导致内存溢出，将单个对象最大序列化后字节数组长度设置为1M
                             ch.pipeline().addLast(new ObjectDecoder(1024 * 1024,
-                                                    ClassResolvers.weakCachingConcurrentResolver(
-                                                            this.getClass().getClassLoader())));
+                                    ClassResolvers.weakCachingConcurrentResolver(
+                                            this.getClass().getClassLoader())));
                             //ObjectEncoder 在消息发送时候自动将serializable的pojo对象编码，无需对对象手工序列化
                             ch.pipeline().addLast(new ObjectEncoder());
                             //经过解码器ObjectDecoder解码，SubReqServerHandler接到的消息已经自动解码成SubscribeReq对象,可以直接使用

@@ -21,6 +21,7 @@ public class HttpXmlResponseEncoder extends AbstractHttpXmlEncoder<HttpXmlRespon
 
     /**
      * HttpXmlResponse -> FullHttpResponse  obj->xml(ByteBuf)
+     *
      * @param ctx
      * @param msg
      * @param out

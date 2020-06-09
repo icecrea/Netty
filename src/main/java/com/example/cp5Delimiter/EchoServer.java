@@ -59,7 +59,7 @@ public class EchoServer {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        int port =8080;
+        int port = 8080;
         new EchoServer().bind(port);
     }
 

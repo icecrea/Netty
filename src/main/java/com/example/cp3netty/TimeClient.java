@@ -39,7 +39,7 @@ public class TimeClient {
     }
 
 
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         new TimeClient().connect("127.0.0.1", 8080);
     }
 }
